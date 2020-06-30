@@ -6,12 +6,7 @@
 ## Elaborada por María Cordero A. (B42016)
 
 ### 1. A partir de los datos, encontrar la mejor curva de ajuste (modelo probabilístico) para las funciones de densidad marginales de X y Y.
-A continuación se muestra la función marginal de x obtenida:
 
-![Funcion%20marginal%20X.PNG](attachment:Funcion%20marginal%20X.PNG)
-
-Por otro lado está la función marginal de y, como se ve a continuación:
-![Funcion%20marginal%20Y.PNG](attachment:Funcion%20marginal%20Y.PNG)
 
 Como se puede observar, ambas se acercan a curvas gaussianas, por lo que se describirán como tal.
 Para obtener las curvas de mejor ajuste, se obtuvo el valor de la media, amplitud y desviación estándar, las cuales son:
@@ -54,14 +49,7 @@ Se obtuvo entonces:
 - Coeficiente de correlación: Se observa que fue de 0.00337, es decir, muy cercano a cero, por lo que se dice que ante cambios de una de las variables, la otra no va a reaccionar a éstos (Levine, Krehbiel, Berenson, 2006).
 
 ### Graficar las funciones de densidad marginales (2D), la función de densidad conjunta (3D).
-Las funciones de densidad marginales son:
-
-![Funcion%20marginal%20X.PNG](attachment:Funcion%20marginal%20X.PNG)
-
-![Funcion%20marginal%20Y.PNG](attachment:Funcion%20marginal%20Y.PNG)
-
-Mientras que la de densidad conjunta será:
-![scatter.PNG](attachment:scatter.PNG)
+Las funciones se pueden observar en el código .py.
 
 ## Bibliografía
 - Berenson, M., Levine, D. y Krehbiel, T. (2006). *Estadística para administración*. Pearson Educación.
